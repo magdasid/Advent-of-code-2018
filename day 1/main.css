@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+.page-title {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 40px;
+    color: #B3000C;
+    text-align: center;
+}
+.page-menu__item {
+    list-style-type: none; 
+}
+.page-menu__link {
+    color: #0D5901;
+    text-decoration: none;
+}
